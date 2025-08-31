@@ -106,9 +106,6 @@ Training performance is logged and visualized:
 - **Blue line** → reward per episode  
 - **Red line** → moving average (trend of learning progress)  
 
-Example plot (`training_performance.png`):  
-![Training Performance](training_performance.png)
-
 ---
 
 ## 📦 Requirements
