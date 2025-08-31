@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Q-Learning Agent for CartPole
+# Q-Learning Agent for CartPole
 
 This project implements a **Q-Learning agent** to solve the classic **CartPole-v1** environment from [Gymnasium](https://gymnasium.farama.org/).  
 The agent learns to balance a pole on a moving cart by interacting with the environment and updating a **Q-table**.
